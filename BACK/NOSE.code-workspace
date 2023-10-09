@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../BOOTCAMP IBERO - 2023"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}

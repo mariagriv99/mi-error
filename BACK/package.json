@@ -1,0 +1,27 @@
+{
+  "name": "backgf",
+  "version": "1.0.0",
+  "description": "api de gravity falls que incluye todos los personajes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "disney",
+    "bootcamp",
+    "animado"
+  ],
+  "author": "Maria Alejandra González",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "ngx-pagination": "^6.0.3"
+  }
+}
